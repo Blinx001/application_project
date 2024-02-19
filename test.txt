@@ -1,0 +1,7 @@
+first name
+last name
+username
+email
+phone numbers
+
+username your signup was successful
