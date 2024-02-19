@@ -5,6 +5,6 @@ if purchase == ("joint"):
 elif purchase == ("singular"):
     print(tip_calculator * 0.003)
 else:
-    print("invalid")
+    print("Invalid")
      
 
